@@ -13,7 +13,7 @@
 ### Aufgabe 1
 
 Siehe
-> p2_1.go
+> p2_1.go [Code](https://github.com/R3mig/ss24_MBSW/blob/main/p2_1.go)
 ---
 
 ### Aufgabe 2
